@@ -1,4 +1,4 @@
-# An example bash_profile.sh script to sit in the users directory.
+# An example .bash_profile.sh script to sit in the users directory.
 
 # Contains a line of code to modify the display of the output produced by squeue. 
 
